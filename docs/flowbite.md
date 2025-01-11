@@ -1,4 +1,2 @@
 
-Buscar y Reemplazar:
- for="
- forHtml="
+Buscar etiqueta for=" y Eliminar.
